@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amey-Thakur&color=blue&style=flat-square&label=PROFILE+VIEWS)
