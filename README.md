@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amey-Thakur&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=masatmod&color=blue&style=flat-square&label=PROFILE+VIEWS)
