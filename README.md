@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=masatmod&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
-
 <!--
 **msatmod/msatmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
